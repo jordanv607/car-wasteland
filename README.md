@@ -7,3 +7,6 @@ https://react.dev/blog/2022/03/29/react-v18
 
 The structure folder is grouped by File Types and Features:
 https://dev.to/itswillt/folder-structures-in-react-projects-3dp8
+
+Start application
+npm run start
