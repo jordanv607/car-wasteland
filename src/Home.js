@@ -2,7 +2,7 @@ import "@fontsource/roboto/300.css";
 import "@fontsource/roboto/400.css";
 import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
-import Button from "../src/components/Button";
+import Button from "@mui/material/Button";
 
 <head>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <div>
       <h1>This is my application.</h1>
-      <Button />
+      <Button variant="contained">Chevy Nova 74'</Button>
     </div>
   );
 }
