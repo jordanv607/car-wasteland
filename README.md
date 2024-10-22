@@ -11,5 +11,8 @@ https://dev.to/itswillt/folder-structures-in-react-projects-3dp8
 This application uses Material UI as web components library:
 https://mui.com/material-ui/getting-started/installation/
 
+This app uses React Router:
+https://reactrouter.com/en/main/start/tutorial
+
 Start application
 npm run start
